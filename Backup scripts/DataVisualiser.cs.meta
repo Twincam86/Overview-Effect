@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d9bc1359ea6adc643b803f23fa01fded
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - airportMarkerPrefab: {fileID: 4769098102207602867, guid: 2ed984a58a974166bf92c82a74380454,
+      type: 3}
+  - lineRendererPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
