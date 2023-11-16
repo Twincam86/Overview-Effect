@@ -8,3 +8,5 @@ Instructions:
 - Using the Unity hub, link the file "Overview Effect V1" by clicking Add, then selecting "Overview Effect V1"
 - Click run :)
 
+Other notes:
+- You only really need to download "Overview Effect V1" but I've uploaded everything in my project folder just in case.
