@@ -5,6 +5,7 @@ Prerequisites:
 - Meta Quest 2 headset linked to PC
 
 Instructions:
+- Download the unity project folder by finding the link to the google drive
 - Using the Unity hub, link the file "Overview Effect V1" by clicking Add, then selecting "Overview Effect V1"
 - Click run :)
 
